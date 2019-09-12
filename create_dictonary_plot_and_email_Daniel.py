@@ -7,7 +7,8 @@ import json
 import matplotlib
 
 import subprocess
-import os, sys 
+import os
+import sys 
 import time
 import datetime
 from email.mime.text import MIMEText
